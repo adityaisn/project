@@ -1,0 +1,112 @@
+[Tue Aug 02 17:17:52.299140 2022] [ssl:warn] [pid 9868:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 02 17:17:52.348429 2022] [ssl:warn] [pid 9868:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 02 17:17:52.380713 2022] [mpm_winnt:notice] [pid 9868:tid 368] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Tue Aug 02 17:17:52.380713 2022] [mpm_winnt:notice] [pid 9868:tid 368] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue Aug 02 17:17:52.380713 2022] [core:notice] [pid 9868:tid 368] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Aug 02 17:17:52.408795 2022] [mpm_winnt:notice] [pid 9868:tid 368] AH00418: Parent: Created child process 1556
+[Tue Aug 02 17:17:52.909074 2022] [ssl:warn] [pid 1556:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 02 17:17:52.957797 2022] [ssl:warn] [pid 1556:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 02 17:17:52.986288 2022] [mpm_winnt:notice] [pid 1556:tid 352] AH00354: Child: Starting 150 worker threads.
+[Fri Oct 07 18:19:46.022611 2022] [ssl:warn] [pid 18052:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 07 18:19:46.082736 2022] [ssl:warn] [pid 18052:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 07 18:19:46.356036 2022] [mpm_winnt:notice] [pid 18052:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Fri Oct 07 18:19:46.356036 2022] [mpm_winnt:notice] [pid 18052:tid 384] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Fri Oct 07 18:19:46.356036 2022] [core:notice] [pid 18052:tid 384] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/xampp/apache -f conf\\httpd.conf'
+[Fri Oct 07 18:19:46.365891 2022] [mpm_winnt:notice] [pid 18052:tid 384] AH00418: Parent: Created child process 10916
+Apache server shutdown initiated...
+sl:warn] [pid 10916:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 07 18:19:47.144659 2022] [ssl:warn] [pid 10916:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 07 18:19:47.177334 2022] [mpm_winnt:notice] [pid 10916:tid 356] AH00354: Child: Starting 150 worker threads.
+[Fri Oct 07 18:19:48.434517 2022] [mpm_winnt:notice] [pid 18052:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 07 18:19:50.455910 2022] [mpm_winnt:notice] [pid 10916:tid 356] AH00364: Child: All worker threads have exited.
+[Fri Oct 07 18:19:50.488108 2022] [mpm_winnt:notice] [pid 18052:tid 384] AH00430: Parent: Child process 10916 exited successfully.
+[Sat Apr 22 10:51:33.208834 2023] [ssl:warn] [pid 4576:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 22 10:51:33.308700 2023] [ssl:warn] [pid 4576:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 22 10:51:33.533876 2023] [mpm_winnt:notice] [pid 4576:tid 348] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Sat Apr 22 10:51:33.533876 2023] [mpm_winnt:notice] [pid 4576:tid 348] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Sat Apr 22 10:51:33.533876 2023] [core:notice] [pid 4576:tid 348] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Apr 22 10:51:33.540074 2023] [mpm_winnt:notice] [pid 4576:tid 348] AH00418: Parent: Created child process 6240
+[Sat Apr 22 10:51:34.528983 2023] [ssl:warn] [pid 6240:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 22 10:51:34.582929 2023] [ssl:warn] [pid 6240:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 22 10:51:34.614517 2023] [mpm_winnt:notice] [pid 6240:tid 364] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 24 03:24:52.692990 2023] [ssl:warn] [pid 2336:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 24 03:24:52.756397 2023] [core:warn] [pid 2336:tid 352] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 24 03:24:52.760569 2023] [ssl:warn] [pid 2336:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 24 03:24:52.953444 2023] [mpm_winnt:notice] [pid 2336:tid 352] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Mon Apr 24 03:24:52.953444 2023] [mpm_winnt:notice] [pid 2336:tid 352] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Mon Apr 24 03:24:52.953444 2023] [core:notice] [pid 2336:tid 352] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Apr 24 03:24:52.959025 2023] [mpm_winnt:notice] [pid 2336:tid 352] AH00418: Parent: Created child process 8508
+[Mon Apr 24 03:24:54.004435 2023] [ssl:warn] [pid 8508:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 24 03:24:54.060304 2023] [ssl:warn] [pid 8508:tid 328] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 24 03:24:54.092945 2023] [mpm_winnt:notice] [pid 8508:tid 328] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 24 03:27:50.629386 2023] [php:warn] [pid 8508:tid 1852] [client ::1:52002] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\xampp\\htdocs\\ad.php on line 102, referer: http://localhost/ad.php
+[Mon Apr 24 03:29:05.593465 2023] [php:warn] [pid 8508:tid 1860] [client ::1:52093] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\xampp\\htdocs\\ad.php on line 102, referer: http://localhost/ad.php
+[Mon Apr 24 03:29:26.652541 2023] [php:warn] [pid 8508:tid 1852] [client ::1:52094] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\xampp\\htdocs\\ad.php on line 102, referer: http://localhost/ad.php
+[Tue May 02 22:24:58.657041 2023] [ssl:warn] [pid 11544:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 02 22:24:58.717143 2023] [core:warn] [pid 11544:tid 332] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 02 22:24:58.722473 2023] [ssl:warn] [pid 11544:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 02 22:24:58.952185 2023] [mpm_winnt:notice] [pid 11544:tid 332] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Tue May 02 22:24:58.952185 2023] [mpm_winnt:notice] [pid 11544:tid 332] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Tue May 02 22:24:58.952185 2023] [core:notice] [pid 11544:tid 332] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 02 22:24:58.957365 2023] [mpm_winnt:notice] [pid 11544:tid 332] AH00418: Parent: Created child process 11292
+[Tue May 02 22:24:59.979122 2023] [ssl:warn] [pid 11292:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 02 22:25:00.038201 2023] [ssl:warn] [pid 11292:tid 332] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 02 22:25:00.068583 2023] [mpm_winnt:notice] [pid 11292:tid 332] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 29 14:17:25.440646 2024] [ssl:warn] [pid 18672:tid 80] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 14:17:25.495219 2024] [core:warn] [pid 18672:tid 80] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 29 14:17:25.505059 2024] [ssl:warn] [pid 18672:tid 80] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 14:17:25.884236 2024] [mpm_winnt:notice] [pid 18672:tid 80] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Thu Feb 29 14:17:25.884236 2024] [mpm_winnt:notice] [pid 18672:tid 80] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Feb 29 14:17:25.884236 2024] [core:notice] [pid 18672:tid 80] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 29 14:17:25.894449 2024] [mpm_winnt:notice] [pid 18672:tid 80] AH00418: Parent: Created child process 21264
+[Thu Feb 29 14:17:26.671569 2024] [ssl:warn] [pid 21264:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 14:17:26.719441 2024] [ssl:warn] [pid 21264:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 14:17:26.747285 2024] [mpm_winnt:notice] [pid 21264:tid 376] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 29 14:26:45.404725 2024] [php:error] [pid 21264:tid 1884] [client ::1:56292] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 14:40:13.415802 2024] [php:error] [pid 21264:tid 1884] [client ::1:56488] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 27, referer: http://localhost/phpprog/
+[Thu Feb 29 14:40:15.443406 2024] [php:error] [pid 21264:tid 1884] [client ::1:56488] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 27, referer: http://localhost/phpprog/
+[Thu Feb 29 15:04:57.372157 2024] [php:error] [pid 21264:tid 1876] [client ::1:57379] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 28, referer: http://localhost/phpprog/
+[Thu Feb 29 15:09:39.923411 2024] [php:error] [pid 21264:tid 1884] [client ::1:57499] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 15:09:41.783631 2024] [php:error] [pid 21264:tid 1884] [client ::1:57499] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 15:09:43.170156 2024] [php:error] [pid 21264:tid 1884] [client ::1:57499] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 15:09:44.152430 2024] [php:error] [pid 21264:tid 1884] [client ::1:57499] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 15:09:47.614804 2024] [php:error] [pid 21264:tid 1884] [client ::1:57499] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 15:11:21.970659 2024] [php:error] [pid 21264:tid 1876] [client ::1:57546] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 27, referer: http://localhost/phpprog/
+[Thu Feb 29 15:11:24.479909 2024] [php:error] [pid 21264:tid 1876] [client ::1:57546] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 27, referer: http://localhost/phpprog/
+[Thu Feb 29 15:11:47.394484 2024] [php:warn] [pid 21264:tid 1884] [client ::1:57547] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:11:47.398619 2024] [php:error] [pid 21264:tid 1884] [client ::1:57547] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:12:52.492626 2024] [php:warn] [pid 21264:tid 1876] [client ::1:57585] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:12:52.492626 2024] [php:error] [pid 21264:tid 1876] [client ::1:57585] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:12:53.623988 2024] [php:warn] [pid 21264:tid 1876] [client ::1:57585] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:12:53.623988 2024] [php:error] [pid 21264:tid 1876] [client ::1:57585] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:01.648821 2024] [php:warn] [pid 21264:tid 1884] [client ::1:57795] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:01.648821 2024] [php:error] [pid 21264:tid 1884] [client ::1:57795] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:02.549675 2024] [php:warn] [pid 21264:tid 1884] [client ::1:57795] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:02.550900 2024] [php:error] [pid 21264:tid 1884] [client ::1:57795] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:09.500871 2024] [php:warn] [pid 21264:tid 1876] [client ::1:57796] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:14:09.502715 2024] [php:error] [pid 21264:tid 1876] [client ::1:57796] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 15:20:19.905683 2024] [php:error] [pid 21264:tid 1876] [client ::1:58102] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 23:35:34.974556 2024] [ssl:warn] [pid 23524:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 23:35:35.057573 2024] [core:warn] [pid 23524:tid 380] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 29 23:35:35.067563 2024] [ssl:warn] [pid 23524:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 23:35:35.559658 2024] [mpm_winnt:notice] [pid 23524:tid 380] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19 configured -- resuming normal operations
+[Thu Feb 29 23:35:35.559658 2024] [mpm_winnt:notice] [pid 23524:tid 380] AH00456: Apache Lounge VS16 Server built: Mar 16 2022 11:26:15
+[Thu Feb 29 23:35:35.559658 2024] [core:notice] [pid 23524:tid 380] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 29 23:35:35.559658 2024] [mpm_winnt:notice] [pid 23524:tid 380] AH00418: Parent: Created child process 9396
+[Thu Feb 29 23:35:36.519851 2024] [ssl:warn] [pid 9396:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 23:35:36.579985 2024] [ssl:warn] [pid 9396:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 29 23:35:36.604450 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 29 23:36:05.636415 2024] [php:error] [pid 9396:tid 1876] [client ::1:58424] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 23:36:09.505272 2024] [php:error] [pid 9396:tid 1876] [client ::1:58424] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 26, referer: http://localhost/phpprog/
+[Thu Feb 29 23:49:00.069557 2024] [php:error] [pid 9396:tid 1876] [client ::1:58786] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 28, referer: http://localhost/phpprog/
+[Thu Feb 29 23:49:01.219676 2024] [php:error] [pid 9396:tid 1876] [client ::1:58786] PHP Parse error:  syntax error, unexpected token "else" in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 28, referer: http://localhost/phpprog/
+[Thu Feb 29 23:49:56.170110 2024] [php:warn] [pid 9396:tid 1884] [client ::1:58785] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Thu Feb 29 23:49:56.170110 2024] [php:error] [pid 9396:tid 1884] [client ::1:58785] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:20.207698 2024] [php:warn] [pid 9396:tid 1876] [client ::1:59140] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:20.207698 2024] [php:error] [pid 9396:tid 1876] [client ::1:59140] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:21.781518 2024] [php:warn] [pid 9396:tid 1876] [client ::1:59140] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:21.781518 2024] [php:error] [pid 9396:tid 1876] [client ::1:59140] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:22.838426 2024] [php:warn] [pid 9396:tid 1876] [client ::1:59140] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:22.838426 2024] [php:error] [pid 9396:tid 1876] [client ::1:59140] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:23.061172 2024] [php:warn] [pid 9396:tid 1876] [client ::1:59140] PHP Warning:  require_once(db_config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
+[Fri Mar 01 00:50:23.061172 2024] [php:error] [pid 9396:tid 1876] [client ::1:59140] PHP Fatal error:  Uncaught Error: Failed opening required 'db_config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\phpprog\\vaishu1.php:4\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\phpprog\\vaishu1.php on line 4, referer: http://localhost/phpprog/
