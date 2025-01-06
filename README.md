@@ -12,7 +12,7 @@ The Ramleela Hotel Management System is a web-based platform designed for hotel 
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
+- **Backend**: PHP,C,C++
 - **Database**: MySQL (SQL)
   
 ## Installation
